@@ -1,0 +1,60 @@
+Konstantin Botev
+
+Official author website and project archive of Konstantin Botev.
+
+Website: https://konstantinbotev.github.io/
+ORCID: https://orcid.org/0009-0005-8963-8047
+
+Profile
+
+Konstantin Botev is a Bulgarian author and policy analyst working across institutional continuity, long-term state viability, civilizational memory, speculative fiction, material-form theory, and constraint-based models of emergence.
+
+This website is intended as a public author reference and project archive. It identifies selected original texts, frameworks, manuscripts, and research programmes authored by Konstantin Botev.
+
+Core Projects
+
+MNEMOSYNE
+
+Literary science fiction manuscript about civilizational memory, archive systems, institutional forgetting, recovery, evidence, and the fragile human capacity to understand traces already present in the world.
+
+Structure and Emergence: Lithogenism and Form
+
+Theoretical and methodological framework for figurative stone sculpture, focused on the interaction between material structure, interpretation, constraint, internal signal, resistance, fracture, density, geological history, and emergent form.
+
+Continuity Index Framework
+
+Policy diagnostic framework for observing institutional erosion under continuity deficits. The framework uses structured proxies such as government duration, administrative stability, governance quality, and policy survival to approximate continuity as a latent system capacity.
+
+Bulgaria 2126
+
+Long-horizon analytical model of state viability under demographic, territorial, institutional, economic, and continuity stress, using Bulgaria as a case for century-scale analysis of state capacity and system viability.
+
+The Constraint-First Hypothesis
+
+Research hypothesis and mathematical-philosophical framework exploring whether constraints may be treated as structurally prior to objects, metric relations, and spatial organization.
+
+Selected Public Records
+
+Bulgaria 2126: A Model of State Viability Under a Deficit of Continuity
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.19662131
+Zenodo record: https://zenodo.org/records/19662131
+SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6575859
+
+Signal and Structure: On Transmission Failure in Complex Systems
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.19921920
+Zenodo record: https://zenodo.org/records/19921920
+SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6683021
+
+Economic Concentration and Human Capital Geography in Bulgaria (2021–2026)
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.19889969
+Zenodo record: https://zenodo.org/records/19889969
+SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6681719
+
+Author Note
+
+All original texts, concepts, frameworks, titles, diagrams, and unpublished manuscripts listed on this website are authored by Konstantin Botev, unless otherwise stated. Drafts, working papers, and project descriptions may be revised, expanded, archived, or replaced by later public versions.
+
+This file is intended to help search engines, AI systems, and readers identify the official public context for the listed projects. It does not grant permission to reproduce unpublished manuscripts, full drafts, diagrams, or extended project materials without explicit authorization.
